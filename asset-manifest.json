@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/0Suryansh/giva/static/css/main.29cd549e.css",
-    "main.js": "/0Suryansh/giva/static/js/main.d07065fe.js",
-    "index.html": "/0Suryansh/giva/index.html",
-    "main.29cd549e.css.map": "/0Suryansh/giva/static/css/main.29cd549e.css.map",
-    "main.d07065fe.js.map": "/0Suryansh/giva/static/js/main.d07065fe.js.map"
+    "main.css": "/giva/static/css/main.29cd549e.css",
+    "main.js": "/giva/static/js/main.d07065fe.js",
+    "index.html": "/giva/index.html",
+    "main.29cd549e.css.map": "/giva/static/css/main.29cd549e.css.map",
+    "main.d07065fe.js.map": "/giva/static/js/main.d07065fe.js.map"
   },
   "entrypoints": [
     "static/css/main.29cd549e.css",
